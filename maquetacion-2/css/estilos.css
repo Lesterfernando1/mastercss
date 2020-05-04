@@ -327,3 +327,19 @@ aside h3{
     margin: 10px;
     font-size: 15px;
 }
+
+.blog{
+    height: 100px;
+    margin-top: 60px;
+    line-height: 100px;
+    text-align: center;
+
+}
+.blog a{
+    display: block;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+    text-decoration: none;
+    color: #00538c;
+}
